@@ -1,0 +1,5 @@
+Web Lab assignment -5  Advanced PHP 
+1.	Write a PHP program to count the number of lines,
+ words, characters, vowels, consonant, digits, special character in given
+ file. Also find the size of the file 
+%$#23422
